@@ -1,2 +1,0 @@
--- Pig Job 1: Load Dataset and Display Selected Fields
--- Apache Pig Implementation
